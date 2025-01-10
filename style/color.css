@@ -1,0 +1,16 @@
+nav>ul>li{
+    display : inline;
+    margin-right: 15px; 
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
+.hi{
+    border: 5px solid blanchedalmond;
+    border-radius: 10px;
+    margin:20px  
+}
+.hi{
+    padding: 10px;
+}
